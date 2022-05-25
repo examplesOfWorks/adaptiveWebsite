@@ -1,0 +1,175 @@
+html {
+	font-family: sans-serif;
+    line-height: 1.15;
+}
+
+body {
+	margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    background-color: #e6f7e5;
+}
+
+.logo {
+	width: 15%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.container_header {
+	padding-left: 50px;
+	padding-right: 80px;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+}
+
+.title {
+	color: green;
+	font-family: 'Abril Fatface', cursive;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.contact{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+li p {
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+li button {
+	margin-top: 45px;
+	margin-bottom: 20px;
+}
+
+/*.container_menu {
+	
+}*/
+
+.menu {
+    display: flex;
+	justify-content: space-between;
+	background-color: #e0e0e0;
+	padding-left: 50px;
+	padding-right: 80px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+
+.menu ul li {
+
+}
+
+.article {
+	display: flex;
+	justify-content: space-between;
+}
+
+.text1 {
+	height: 50%;
+	padding-left: 150px;
+	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align:  center;
+}
+
+.picture1 {
+	width: 60%;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.text2 {
+	height: 50%;
+	padding-right: 150px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 5%;
+	text-align:  center;
+}
+
+.picture2 {
+	width: 60%;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.container_order {
+	background-color: #ffffff;
+	width: 35%;
+	height: 80%;
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.order {
+	margin-left: 20px;
+}
+
+.order_title {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.send_order {
+	margin-left: 35%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.container_footer {
+	padding-left: 50px;
+	padding-right: 80px;
+}
+
+.footer {
+	display: flex;
+	justify-content: space-between;
+}
+
+.ikons {
+	width: 5%;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a:link {
+	outline: none;
+	text-decoration: none;
+	color: green;
+}
+
+a:visited {
+	outline: none;
+	text-decoration: none;
+	color: green;
+}
+
+
+a:hover {
+	outline: none;
+	text-decoration: none;
+	color: green;
+}
